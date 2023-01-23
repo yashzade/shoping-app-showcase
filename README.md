@@ -1,5 +1,4 @@
-# shoping-app-showcase
-this is only to show code of the app
+
 ![image](https://user-images.githubusercontent.com/42665606/214067539-9197768c-c1cf-41fa-94ec-138abc54779d.png)
 ![image](https://user-images.githubusercontent.com/42665606/214067814-906ffd09-7aba-4ea0-98db-c634913914e7.png)
 ![image](https://user-images.githubusercontent.com/42665606/214067875-f447e664-8386-42b5-9365-8badda753321.png)
